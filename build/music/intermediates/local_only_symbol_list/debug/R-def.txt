@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+drawable media_next
+drawable media_pause
+drawable media_play
+drawable media_previous
+drawable notification_gradient
+drawable notification_icon
+drawable notification_image_round
+id notification_artist
+id notification_buttons
+id notification_desc
+id notification_image
+id notification_left
+id notification_loading
+id notification_next
+id notification_pause
+id notification_play
+id notification_previous
+id notification_title
+layout notification_layout
